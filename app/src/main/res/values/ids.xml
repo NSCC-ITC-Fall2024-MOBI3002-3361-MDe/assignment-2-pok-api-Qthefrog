@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pokemonNameEditText" type="id" />
+    <item name="searchButton" type="id" />
+    <item name="pokemonImageView" type="id" />
+    <item name="pokemonNameTextView" type="id" />
+    <item name="pokemonTypeTextView" type="id" />
+    <item name="pokemonHeightTextView" type="id" />
+    <item name="pokemonWeightTextView" type="id" />
+</resources>
